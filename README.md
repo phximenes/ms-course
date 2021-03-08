@@ -149,4 +149,3 @@ Acompanhar logs do container em execução
 ```
 docker logs -f <container-id>
 ```
-185.199.108.133
